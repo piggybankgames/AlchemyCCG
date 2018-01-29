@@ -1,0 +1,40 @@
+Name,Cost(T),Threshold,Type,Attack,Defense,Type,Text
+Time Traveler,1,2,Unit,7,7,,"Delay(5), Ready, Materialist"
+Stream Guard,2,2,Unit,2,6,Undead,Delay(2)
+Blink Cat,2,2,Unit,3,2,Familiar,At any time you may recast Blink Cat with Delay(1).
+Time's Acolite,2,3,Unit,1,4,,When cast you may add a ward counter to any wards you control.
+Calculator,3,1,Unit,2,4,,Skill(1)
+Bone Murder,3,2,Unit,3,2,Undead,"Flying, Whenever an enemy unit dies generate a resource."
+Flicker Whisp,3,3,Unit,1,1,,"Flying, When cast you can replay another one of your allies."
+Monk,4,2,Unit,2,4,,"Materialist, When cast you may archive a card in your hand."
+Bone Wall,4,2,Unit,0,10,Undead,
+Dread Legion,4,3,Unit,12,6,Undead,Delay(4)
+Blinking Ember,4,3,Unit,5,1,Ward(1),"Haste, Materialist, Negative Space, If Blinking Ember runs out of ward counters recast it with delay(2)"
+Time Warrior,5,3,Unit,12,12,Ward(4),
+Lich,5,4,Unit,2,7,Undead,"Delay(2), Undead, Your other Undead have +1/+1, When cast generate 3 resources."
+Archivist,7,5,Unit,2,5,,Archivist has +1/+1 for each card in your archive.
+Risen Pharaoh,8,6,Unit,9,12,Undead,"Delay(1), Charge, Materialist, Ready, :Archive your hand."
+,,,,,,,
+Reach Beyond ,2,2,Spell,,,,"Delay(1), place a cube."
+Stutter Step,2,2,Spell,,,Fast,Counter target spell it is recast with Delay(2)
+Time Currents,3,2,Spell,,,Fast,Move any 2 ward and/or delay counters.
+Call Forward,3,2,Spell,,,Fast,"Delay(2), Draw 3 cards and then you may archive a card in your hand."
+Rewind,3,1,Spell,,,,"Players above 10 cubes lose down to 10 cubes, losing a maximum of 5 cubes."
+Cast Out,3,4,Spell,,,Fast,"Recast, with Delay(3), target ally."
+Index,4,4,Spell,,,,You may archive any number of cards in your hand.
+Unmake,5,2,Spell,,,Fast,Place target permenant on top or bottom of its owners deck.
+Brain Geyser,6,6,Spell,,,,"Delay(6), Draw 6 cards then you can archive up to 6 cards in your hand."
+Time Jump,7,6,Spell,,,,"Delay(1), Take an extra turn after this turn. "
+Global Reset,8,6,Spell,,,,Return all permenants to their owners hand and recast Global Reset with Delay(8).
+,,,,,,,
+Time Loop,2,2,Ward,,,Ward(3),When played draw a card. If Time Loop runs out of ward counters recast it.
+Time Sink,3,2,Ward,,,Ward(4),:Remove a counter from any of your cards.
+Deja Vu,3,2,Ward,,,Ward(3),You may reuse 1 of your once per turn boons.
+Paradox,5,4,Ward,,,Ward(12),If Paradox runs out of ward counters you win.
+,,,,,,,
+Almanac,3,2,Artifact,,,,"Delay(3) Every time you play a card, including this one, gererate 1 resource."
+Amber,3,3,Artifact,,,,"::Recast, with Delay(2), target ally with Negative Space."
+Summoning Orb,4,4,Artifact,,,,3::Cast a 5/5 Undead with Delay(2).
+,,,,,,,
+Living History,4,6,Boon,,,,During your turn archive a card. You may use this ability once per turn.
+Paralax,8,4,Boon,,,,During your turn remove a delay or ward counter from any of your cards. You may use this ability once per turn.
