@@ -1,40 +1,40 @@
 Name,Cost(E),Threshold,Type,Attack,Defense,Type,Text
-Old Stone,1,1,Unit,0,2,Golem,Materialist
-Clay Golem,2,2,Unit,4,4,Golem,Comes into play stunned.
-Phoenix,2,3,Unit,2,2,Familiar,"Flying, When cast gain Spell Damage(1) this turn. You may play Phoenix from you archive. "
-Lava Form,3,2,Unit,3,2,Golem,When cast deal 2 damage to an enemy.
-Snow Yeti,3,2,Unit,3,3,,When cast you may stun target ally.
-Lightning Caller,3,3,Unit,1,2,,Spell Damage(1)
-Fire Dancer,4,3,Unit,4,2,Elemental,If Fire Dancer damages an enemy gain Spell Damage(1) this turn and deal 1 spell damage to an enemy.
-Ice Soul,4,2,Unit,0,2,Elemental,Ice Soul has +5/+5 if an enemy ally is stunned.
-Cold Soul,4,4,Unit,0,4,Elemental,::Stun an enemy unit.
+Old Stone,1,1,Unit,0,2,Golem,"Materialist"
+Clay Golem,2,2,Unit,4,4,Golem,"Comes into play stunned."
+Phoenix,2,3,Unit,2,2,Familiar,"Flying, When played gain Spell Damage(1) this turn. You may play Phoenix from you archive."
+Lava Form,3,2,Unit,3,2,Golem,"When played deal 2 damage to an enemy."
+Snow Yeti,3,2,Unit,3,3,,"When played you may stun target unit."
+Lightning Caller,3,3,Unit,1,2,,"Spell Damage(1)"
+Fire Dancer,4,3,Unit,4,2,Elemental,"If Fire Dancer damages an enemy gain Spell Damage(1) this turn and deal 1 spell damage to an enemy."
+Ice Soul,4,2,Unit,0,2,Elemental,"Ice Soul has +5/+5 if an enemy permanent is stunned."
+Cold Soul,4,4,Unit,0,4,Elemental,"::Stun an enemy unit."
 Charged Soul,4,4,Unit,5,2,Elemental,"Charge, If Charged Soul damages an enemy generate 2 resources."
-Storm Caller,5,3,Unit,1,4,,:Deal 1 spell damage to target ally or player.
-Wind Singer,5,4,Unit,3,5,Elemental,"When cast you may recast a spell in you archive, then remove it from the game."
+Storm Caller,5,3,Unit,1,4,,":Deal 1 spell damage to target unit or player."
+Wind Singer,5,4,Unit,3,5,Elemental,"When played you may replay a spell in you archive, then remove it from the game."
 Trained Bear,6,3,Unit,7,8,Familiar,"Charge, Ready, :Heal 2 wounds from yourself."
-Lumbering Inferno,6,5,Unit,6,5,Golem,When you generate resources deal 1 spell damage to your opponent.
-Lightning Dragon,7,4,Unit,5,5,Elemental,"Flying, When cast deal 1 spell damage to all enemy targets. Spell Damage(1)"
+Lumbering Inferno,6,5,Unit,6,5,Golem,"When you generate resources deal 1 spell damage to your opponent."
+Living Storm,7,4,Unit,3,3,Elemental,"Flying, When played deal 1 spell damage to all enemy targets. Spell Damage(1)"
 ,,,,,,,
-Commune,1,2,Spell,,,,As a cost stun 1 of your allies. Place a cube.
-Inner Fire,2,2,Spell,,,Fast,Gain 3 resources.
-Healing Wind,2,1,Spell,,,Fast,Remove 2 wounds. Draw a card.
-Burning Thoughts,3,2,Spell,,,,If you dealt damage this turn draw 2 cards.
-Ice Lance,3,2,Spell,,,Fast,Deal 3 damage to a target ally and stun it.
-Ice Shards,3,1,Spell,,,Fast,Deal 1 damage to up to 3 targets.
-Purify ,4,2,Spell,,,Fast,Destroy target artifact and/or ward.
-Snow Blindness,4,3,Spell,,,Fast,Your allies can't be targeted by enemies this turn.
-Fireball,4,3,Spell,,,Fast,Deal 6 damage to an enemy.
+Commune,1,2,Spell,,,,"As a cost stun 1 of your units. Place a cube."
+Inner Fire,2,2,Spell,,,Fast,"Gain 3 resources."
+Healing Wind,2,1,Spell,,,Fast,"Remove 2 wounds. Draw a card."
+Burning Thoughts,3,2,Spell,,,,"If you dealt damage this turn draw 2 cards."
+Ice Lance,3,2,Spell,,,Fast,"Deal 3 damage to a target unit and stun it."
+Ice Shards,3,1,Spell,,,Fast,"Deal 1 damage to up to 3 targets."
+Purify ,4,2,Spell,,,Fast,"Destroy target artifact and/or ward."
+Snow Blindness,4,3,Spell,,,Fast,"Your units can't be targeted by enemies this turn."
+Fireball,4,3,Spell,,,Fast,"Deal 6 damage to an enemy."
 Cauterize,5,3,Spell,,,Fast,"Deal 3 damage to an enemy, heal 3 damage, and draw a card."
-Mass Oxidation,5,4,Spell,,,,Remove all artifacts from the game.
-Absolute Zero,8,6,Spell,,,,Stun all enemies and draw 4 cards.
+Mass Oxidation,5,4,Spell,,,,"Remove all artifacts from the game."
+Absolute Zero,8,6,Spell,,,,"Stun all enemies and draw 4 cards."
 ,,,,,,,
-Bonfire,3,3,Ward,,,3,When played place 3 cubes. When leaving play remove 3 cubes.
-Raging Bonfire,3,3,Ward,,,3,When you remove a ward counter from Raging Bonfire deal 2 spell damage to an enemy.
-Bitter Wind,3,2,Ward,,,3,When a ward counter is removed from Bitter Wind you may stun an ally.
+Bonfire,3,3,Ward,,,Duration(3),"When played place 3 cubes. When leaving play remove 3 cubes."
+Raging Bonfire,3,3,Ward,,,Duration(3),"When you remove a duration counter from Raging Bonfire deal 2 spell damage to an enemy."
+Bitter Wind,3,2,Ward,,,Duration(3),"When a duration counter is removed from Bitter Wind you may stun an unit."
 ,,,,,,,
-Flint,5,2,Artifact,,,,:Place a ward counter on any of you Bonfires. :Generate a resource. :Spell Damage(1) for the next spell you cast this turn. 
-Ice Alter,5,4,Artifact,,,,Your stunned permenants go to ready during your ready step. Enemy permenants are stunned whenever they are activated.
-Esper,6,6,Artifact,,,,When you draw cards draw 1 extra card.
+Flint,5,2,Artifact,,,,":Place a duration counter on any of you Bonfires. :Generate a resource. :Spell Damage(1) for the next spell you play this turn."
+Ice Alter,5,4,Artifact,,,,"Your stunned permanents go to ready during your ready step. Enemy permanents are stunned whenever they are activated."
+Esper,6,6,Artifact,,,,"When you draw cards draw 1 extra card."
 ,,,,,,,
-Eternal Flame,3,3,Boon,,,,During your turn generate 1 resource. You may use this ability once per turn.
-Mother Nature,5,5,Boon,,,,During you turn deal 1 spell damage to an enemy. You may use this ability once per turn.
+Eternal Flame,3,3,Boon,,,,"During your turn generate 1 resource. You may use this ability once per turn."
+Mother Nature,5,5,Boon,,,,"During you turn deal 1 spell damage to an enemy. You may use this ability once per turn."

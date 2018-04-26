@@ -1,40 +1,40 @@
 Name,Cost(A),Threshold,Type,Attack,Defense,Type,Text
 Imp,1,1,Unit,2,1,Daemon,
 Cultist,2,1,Unit,3,2,,
-Minor Devil,2,3,Unit,6,3,Daemon,When cast sacrific one of your allies.
-Death Merchant,2,5,Unit,3,3,,:Give an ally +3/+3 this turn.
-Slither,3,2,Unit,3,1,Daemon,Negative Space
-Firehoof Satyr,3,2,Unit,3,2,Daemon,Haste
+Minor Devil,2,3,Unit,6,3,Daemon,"When played sacrifice one of your units."
+Death Merchant,2,5,Unit,3,3,,":Give an unit +3/+3 this turn."
+Slither,3,2,Unit,3,1,Daemon,"Negative Space"
+Firehoof Satyr,3,2,Unit,3,2,Daemon,"Haste"
 Prophet,3,2,Unit,1,3,,"Materialist, When played you may place 2 blight."
-Carrier,4,2,Unit,4,3,Ward(4),When a ward counter is removed from Carrier you may place a sickness counter.
-Blightmite,4,3,Unit,2,2,Daemon,"Negative Space, When cast your opponent turns 1 of their cubes into a blight."
-Conquest Daemon,4,3,Unit,4,2,Daemon,"When cast, if you have dealt combat damage this turn, place a cube."
-Witch,4,3,Unit,3,3,,When played place 2 sickness counters onto allies of your choice
+Carrier,4,2,Unit,4,3,Duration(4),"When a duration counter is removed from Carrier you may place a sickness counter."
+Blightmite,4,3,Unit,2,2,Daemon,"Negative Space, When played your opponents turn 1 of their cubes into a blight."
+Conquest Daemon,4,3,Unit,4,2,Daemon,"When played, if you have dealt combat damage this turn, place a cube."
+Witch,4,3,Unit,3,3,,"When played place 2 sickness counters onto units of your choice"
 Cheshire,5,2,Unit,5,2,Daemon,"Negative Space, If Cheshire would die you may return it to your hand."
-Hated One,5,4,Unit,8,4,Daemon,
+Hated One,5,4,Unit,9,5,Daemon,"Hatred"
 Harpy,6,4,Unit,5,4,Daemon,"Flying, Charge"
-Blight Maw,7,5,Unit,4,4,Daemon,When played you may sacrifice any number of cubes to place that much blight. +1/+1 for each blight on your opponents board.
+Blight Maw,7,5,Unit,4,4,Daemon,"When played you may sacrifice any number of cubes to place that much blight. +1/+1 for each blight on your opponents board."
 ,,,,,,,
-Encroaching Shadows,2,3,Spell,,,Fast,Target ally you control gains Negative Space and can't be targeted by enemies this turn.
-Menace,2,2,Spell,,,,All players discard their hand.
-Hex,3,3,Spell,,,,"Place a blight and a sickness counter, then look at your oppoents hand and they discard the card of your choice."
-Kill,4,3,Spell,,,Fast,Destroy target ally.
-Wasting,4,4,Spell,,,,Target player skips their next draw phase.
-Famine,5,3,Spell,,,,Place a sickness counter on each of your opponent's allies. For each ally that dies place a blight.
+Encroaching Shadows,2,3,Spell,,,Fast,"Target unit you control gains Negative Space and can't be targeted by enemies this turn."
+Menace,2,2,Spell,,,,"All players discard their hand."
+Hex,3,3,Spell,,,,"Place a blight and a sickness counter, then look at your opponents hand and they discard the card of your choice."
+Kill,4,3,Spell,,,Fast,"Destroy target unit."
+Wasting,4,4,Spell,,,,"Target player skips their next draw phase."
+Famine,5,3,Spell,,,,"Place a sickness counter on each of your opponent's units. For each unit that dies place a blight."
 Blight,5,3,Spell,,,,"Your opponent turns 2 of their cubes into blight, you may then place 3 more blight."
-Eclipse,6,6,Spell,,,,Your daemons gain negative space this turn.
-Summon,6,6,Spell,,,,Cast any unit from your hand or archive.
-Endless Feast,11,6,Spell,,,Fast,"Your oppoent discards their hand, X cards, you draw that many cards and your units get +X/+X this turn. "
-Arrival,12,6,Spell,,,,Fill all empty space on the opponents board with blight.
+Engulf,6,3,Spell,,,Fast,"Erase target permanent."
+Eclipse,6,6,Spell,,,,"Your daemons gain negative space this turn."
+Summon,6,6,Spell,,,,"Play any unit from your hand or archive."
+Endless Feast,11,6,Spell,,,Fast,"Your opponent discards their hand, X cards, you draw that many cards and your units get +X/+X this turn. "
+Arrival,12,6,Spell,,,,"Fill all empty space on the opponents board with blight."
 ,,,,,,,
-Stupor,3,3,Ward,,,Ward(3),When your oppoents draws their hand for the turn they must discard a card.
-Cursed Bloodlines,3,3,Ward,,,Ward(3),All units are Daemons instead of their printed type.
-Perverse Influence,5,4,Ward,,,Ward(1),"If Perverse Influence runs out of ward counters do all that apply, have (2/4/7/11/15) blight on your opponents board. Place a blight, Place a sickness, your allies get +1/+1 this turn, your opponent must discard 2 cards, Cast an 11/11 Daemon."
+Stupor,3,3,Ward,,,Duration(3),"When your opponents draws their hand for the turn they must discard a card."
+Cursed Bloodlines,3,3,Ward,,,Duration(3),"All units are Daemons instead of their printed type."
 ,,,,,,,
 Telescope,2,5,Artifact,,,,":Return a copy of Encroaching Shadows, Hex, or Eclipse from your Archive to your Hand."
 Cauldron ,3,3,Artifact,,,,:Place a blight. ::Place a sickness
 Sigil Pyre,4,4,Artifact,,,,During each players upkeep that player sacrifices an artifact or ward.
 ,,,,,,,
 Pestilence,4,4,Boon,,,,During your turn place a blight. You may use this ability once per turn.
-Plague,,,Boon,,,,During you turn place a sickness. You may use this ability once per turn.
-Total Darkness,7,5,Boon,,,,Your allies have +1/+1.
+Plague,6,4,Boon,,,,During you turn place a sickness. You may use this ability once per turn.
+Total Darkness,7,5,Boon,,,,Your units have +1/+1.
